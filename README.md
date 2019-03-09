@@ -1,1 +1,3 @@
 # MOOC 2013 Programming with Java I & II Answers
+
+Small Disclaimer: I looked at some other peoples answers for the final challenge and the "String Builder" exercise. Mostly becuase i was being lazy...
